@@ -1,7 +1,7 @@
 # 🎓 CCMS — Campus Complaint Management System
 
 <p align="center">
-  <strong>AI-powered digital grievance redressal platform for International Islamic University Chittagong (IIUC)</strong>
+  <strong>AI-powered digital grievance redressal platform for Campus Complaint Management System </strong>
 </p>
 
 <p align="center">
